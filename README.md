@@ -1,7 +1,7 @@
 <h1>Pipe Command basic explain and example.</h1>
 <b>Pipes are used to redirect a stream from one program to another program.</b>
 
-<b>- Use '|' symbol to separate two commands.</b>
+<b>- Use '|' symbol to separate two commands.</b><br>
 <b>- example is like open a terminal screen then type ps -ef | grep httpd </b> 
 
 ```
