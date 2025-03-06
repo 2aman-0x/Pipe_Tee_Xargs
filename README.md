@@ -1,10 +1,11 @@
 <h1>Pipe Command basic explain and example.</h1>
-<b>Pipes are used to redirect a stream from one program to another program.</b>
+<b>Pipes are used to redirect a stream from one program to another program.</b><br>
 
 <b>- Use '|' symbol to separate two commands.</b><br>
 <b>- example is like open a terminal screen then type ps -ef | grep httpd </b> 
 
 ```
+
 1) Find NO. of files present in a directory.
 cd /etc
 ls -1 | wc -l
