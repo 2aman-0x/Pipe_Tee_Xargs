@@ -1,4 +1,4 @@
-<h1>Pipe Command basic explain and example.</h1>
+<h1><i>Pipe Command basic explain and example.</i></h1>
 <b>Pipes are used to redirect a stream from one program to another program.</b><br>
 
 <b>- Use '|' symbol to separate two commands.</b><br>
