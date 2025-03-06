@@ -7,7 +7,6 @@
 ```
 
 1) Find NO. of files present in a directory.
-
     cd /etc
     ls -1 | wc -l
 
