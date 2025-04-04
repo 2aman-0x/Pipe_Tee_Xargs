@@ -1,4 +1,4 @@
-source:[PIPE](https://youtu.be/uF7hFCThf4g?si=TP8mwo0Lg8isPQ5r)
+source : [PIPE](https://youtu.be/uF7hFCThf4g?si=TP8mwo0Lg8isPQ5r)
 
 <h1><i>Pipe Command basic explain and example.</i></h1>
 <b>Pipes are used to redirect a stream from one program to another program.</b><br>
