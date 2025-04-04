@@ -9,7 +9,7 @@ source : [PIPE](https://youtu.be/uF7hFCThf4g?si=TP8mwo0Lg8isPQ5r)
 
 1) Find NO. of files present in a directory.  
     ```cd /etc```  
-    ```ls -1 | wc -l```
+    ```ls -l | wc -l```
 
 
 2) There are two files like name.txt and country.txt. Combine both files content using cat and sort it.  
