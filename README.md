@@ -39,4 +39,14 @@ Example: ```ls | tee file.txt```
 
 It converts the stdinput into command line argument
 
-example: ```ls | xargs echo "hello"```
+example: ```ls | xargs echo "hello"```  
+
+### To do:
+
+file1, file2, file3, file4, file5  
+
+Now take/read the name from FileNames.txt and create those number of files in the present directory.  
+
+```cat FileNames.txt | xargs touch```
+
+
