@@ -22,3 +22,21 @@ source : [PIPE](https://youtu.be/uF7hFCThf4g?si=TP8mwo0Lg8isPQ5r)
 
 4) How to see only 30-37th line in a file of 100 lines?  
     ```cat data.txt | head -38 | tail -7```
+
+5) How o show a output as more?  
+```netstat | more```
+
+6) How to show a output as less?
+```netstat | less```
+
+## TEE commands
+
+Tee reads standard input and copies it both to stdOutput and to a file. We can see the information going through pipeline.  
+
+Example: ```ls | tee file.txt```  
+
+## XARGS
+
+It converts the stdinput into command line argument
+
+example: ```ls | xargs echo "hello"```
