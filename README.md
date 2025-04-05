@@ -29,19 +29,19 @@ source : [here](https://youtu.be/uF7hFCThf4g?si=TP8mwo0Lg8isPQ5r)
 6) How to show a output as less?
 ```netstat | less```
 
-## TEE commands
+<h1><i> TEE commands </i></h1>
 
-Tee reads standard input and copies it both to stdOutput and to a file. We can see the information going through pipeline.  
+<b>Tee reads standard input and copies it both to stdOutput and to a file. We can see the information going through pipeline. </b>  
 
 Example: ```ls | tee file.txt```  
 
-## XARGS
+<h1><i> XARGS </i></h1>
 
-It converts the stdinput into command line argument
+<b> It converts the stdinput into command line argument </b>
 
 example: ```ls | xargs echo "hello"```  
 
-### To do:
+<h1><i> To do: </i></h1>
 
 file1, file2, file3, file4, file5  
 
